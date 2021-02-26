@@ -8,4 +8,6 @@ urlpatterns = [
     path ('', home, name = 'home'),
     path ('<int:pk>/', home, name = 'home'),
 ]
-#8 5minit
+
+
+#8 5minits
